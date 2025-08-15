@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 ## ✨ Live Demo
 
-🌐 **[View Live Portfolio](https://prabhu-portfolio.netlify.app)** *(Coming Soon)*
+🌐 **[View Live Portfolio](https://prabhu1-portfolio.netlify.app)**
 
 ## 🎯 About Me
 
